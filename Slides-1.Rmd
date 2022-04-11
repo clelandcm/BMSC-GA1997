@@ -1,0 +1,155 @@
+---
+title: "BMSC-GA 1997: GRANT WRITING FOR SCIENTISTS"
+date: "April 11, 2022"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      countdown: 60000
+      ratio: "16:9"
+---
+
+```{css, echo = FALSE}
+.remark-slide-content {
+  font-size: 30px;
+  padding: 20px 20px 20px 20px;
+}
+.remark-code, .remark-inline-code {
+  background: #f0f0f0;
+}
+.remark-code {
+  font-size: 24px;
+}
+.huge .remark-code { /*Change made here*/
+  font-size: 500% !important;
+}
+.tiny .remark-code { /*Change made here*/
+  font-size: 70% !important;
+}
+
+.my-one-page-font {
+  font-size: 24px;
+}
+```
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#673888",
+  secondary_color = "#FF961C",
+  inverse_header_color = "#E5E5E5",
+  background_color = "#E5E5E5",
+  title_slide_background_color = "#E5E5E5",
+  title_slide_text_color = "#673888"
+)
+```
+
+# Introductions
+
+- Briefly introduce yourself and your research interests
+  + Dr. Cleland ([Curriculum Vitae](https://clelandcm.github.io/Cleland-CV/))
+  + Caitlin Ma
+  + Liz Pirraglia
+  + Carlos Samuels
+
+---
+
+# Course Objective and Description
+
+- This course will introduce fundamental aspects of grant writing, including selecting funding mechanisms, writing individual grant sections and understanding administrative policies. 
+- The course format consists of a single lecture (April 6, 2022) concerning the basics of grant writing and evaluation. 
+- Other meetings consist of working in small groups, overseen by a faculty member, to write an application for [National Research Service Award (NRSA) Fellowship funding](https://www.nlm.nih.gov/ep/NRSAFellowshipGrants.html) and constructively critique the work of the other students.
+
+---
+
+# Course Requirements 
+
+- Throughout the course, participants are expected to:      
+  + i) attend each class and working group meeting;      
+  + ii) write a mock or actual NRSA proposal; and      
+  + iii) read and review the proposals of two other students.     
+- All grants will be critiqued by participating faculty and fellow students in a mock study section format.     
+
+---
+
+# Meeting Schedule
+
+- April 11: Chalk talks on research projects
+- April 18: Aims page (draft 1)
+- April 25: Aim page (draft 2)
+- May 2: Significance
+- May 9: Approach (Aim 1)
+- May 16: Approach (full draft)
+
+---
+
+# How Each Session Will Work?
+
+- Share drafts before meeting?
+- I suggest sending out drafts to me and fellow students the day of our Monday meeting by 12pm EDT
+- We can devote some of our meeting time to reading if needed
+
+---
+
+# Chalk Talks
+
+```{r, comment=NA}
+set.seed(772233)
+sample(c('CM','LP','CS'))
+```
+
+- Caitlin
+- Carlos
+- Liz
+
+---
+
+# Aims
+
+- What is the problem the proposed work aims to solve?
+- What is already known about the problem?
+- What gaps will the proposed work address?
+- How might the proposed work overcome current limitations?
+- Specific Aims
+- What are expected outcomes of the proposed work?
+- Aims is the most important part of the scientific narrative
+
+---
+
+# Subcomponents of the Specific Aims Page
+
+- Paragraph 1- Introduces your research topic and why it is important (Significance)
+- Paragraph 2- Identifies the solution- what you are going to do and how you will do it. (Approach)
+- Specific Aims- Numbered list of Aims (2-4 Aims should be provided)
+- Final paragraph- What is innovative (Innovation) and what is the expected outcome/impact (Impact)
+
+---
+
+# Example Specific Aims
+
+- **Aim 1:** Using a highly efficient experimental design, identify which of five components contribute meaningfully to improvement in the primary outcome, viral suppression, and secondary outcomes, absolute viral load, ART adherence, and engagement in HIV primary care, all assessed via objective biomarkers or through the medical record.
+- **Aim 2:** Identify mediators and moderators of the efficacy of each intervention component (e.g., substance use history, sexual minority status), and also of interaction effects between components.
+- **Aim 3:** Using a mathematical modeling approach, build the most cost-effective and efficient intervention package from the components found to be efficacious in Aim 1.
+
+---
+
+# For Reviewers
+
+- Without reading word for word, can you describe the problem the proposed work aims to solve, what is already known, and what gap will be addressed?
+- Are there any parts you don’t understand, or that you suspect readers may not understand?
+- What suggestions do you have for making the writing clearer and more persuasive?
+- What do you expect to see covered in **Significance**, **Innovation**, and **Approach**    
+– What questions are you left with at the end of Specific Aims that you expect the rest of the proposal will answer? 
+---
+
+class: middle, center
+
+# Questions 
